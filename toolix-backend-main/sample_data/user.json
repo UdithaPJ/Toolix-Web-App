@@ -1,0 +1,30 @@
+[
+  {
+    "userName": "testStudent",
+    "email": "1111@foe.sjp.ac.lk",
+    "password": "$2a$10$iK76kXh8/6NoCjmbfFWlKee5hTdOMrWYTKMuevL5mVbt3vHIfv5/2",
+    "name": "Test student",
+    "role": "STUDENT"
+  },
+  {
+    "userName": "testInstructor",
+    "email": "isurufern@foe.sjp.ac.lk",
+    "password": "$2a$10$iK76kXh8/6NoCjmbfFWlKeQwAWKvBP/53TcnnMRPFZclWRh4wVr0e",
+    "name": "Test instructor",
+    "role": "INSTRUCTOR"
+  },
+  {
+    "userName": "testAdmin",
+    "email": "admin@foe.sjp.ac.lk",
+    "password": "$2a$10$iK76kXh8/6NoCjmbfFWlKevkYdkUitnk9Nm4qapDA2mpi6ZmfAt4m",
+    "name": "Test admin",
+    "role": "ADMIN"
+  },
+  {
+    "userName": "student",
+    "email": "222@foe.sjp.ac.lk",
+    "password": "$2a$10$iK76kXh8/6NoCjmbfFWlKexNVqlP5KkVi16HfjEhHzxGsOsfabHMy",
+    "name": "student",
+    "role": "STUDENT"
+  }
+]

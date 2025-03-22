@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Box",
+    "isAvailable": true,
+    "isDeleted": false,
+    "description": "box"
+  },
+  {
+    "name": "Data",
+    "isAvailable": true,
+    "isDeleted": false,
+    "description": "data"
+  },
+  {
+    "name": "iphone",
+    "isAvailable": true,
+    "isDeleted": false,
+    "description": "iphone"
+  },
+  {
+    "name": "Samsung phone",
+    "isAvailable": true,
+    "isDeleted": false,
+    "description": "Samsung phone"
+  },
+  {
+    "name": "One plus",
+    "isAvailable": true,
+    "isDeleted": true,
+    "description": "One plus"
+  }
+]
